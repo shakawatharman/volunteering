@@ -1,0 +1,8 @@
+/*
+* User event card
+*/
+
+.user-event-card {
+	border-radius: 10px;
+	display: flex;
+}

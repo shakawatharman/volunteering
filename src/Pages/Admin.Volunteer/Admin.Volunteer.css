@@ -1,0 +1,10 @@
+
+.admin-menu a {
+	display: block;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+.admin-menu img {
+	width: 20px;
+
+}

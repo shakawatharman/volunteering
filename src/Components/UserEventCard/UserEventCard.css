@@ -1,0 +1,21 @@
+
+.user-event-img {
+    flex: 2;
+    height: 150px;
+}
+.user-event-img img {
+    height: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.user-event-info {
+    padding: 0 9px;
+    flex: 3;
+    position: relative;
+}
+
+.user-event-info button {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

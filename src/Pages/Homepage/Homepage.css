@@ -1,0 +1,28 @@
+/*
+* Search Form
+*/
+.search-title {
+	text-transform: uppercase;
+	margin: 23px 0;
+}
+.search-form {
+	background: #fff;
+    border: 1px solid blueviolet;
+    display: inline-block;
+    border-radius: 5px;
+    max-width: 500px;
+}
+
+form.search-form input {
+    padding: 8px 20px;
+	border: none;
+	outline: none;
+}
+.search-form button {
+    background: blueviolet;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 20px;
+    margin-left: -5px;
+}

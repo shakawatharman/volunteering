@@ -1,0 +1,20 @@
+/*
+* Event form
+*/
+
+.event-form input,.event-form textarea,.event-form button {
+	width: 100%;
+	display: block;
+	border: 1px solid #dddddd7d;
+	padding: 10px;
+	outline: none;
+	border-radius: 5px;
+}
+.event-form button{
+	background-color: #F8FAFC;
+	position: relative;
+	width: 250px;
+}
+.event-form button img {
+	width: 30px;
+}
